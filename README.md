@@ -8,6 +8,10 @@ preparar, limpiar y analizar los datos más recientes de casos de
 tuberculosis a nivel mundial con miras a presentar la situación 
 actual ante el consejo directivo de la organización.
 
+## Notebook
+
+[Ver análisis completo](./Análisis_de_Tuberculosis_Global_—_OMS_&_Población_Mundial.ipynb)
+
 ## ¿Qué se hizo?
 
 Se trabajó con dos conjuntos de datos oficiales: `who.csv`, que 
